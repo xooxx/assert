@@ -1,0 +1,18 @@
+{
+    "name": "xooxx/assert",
+    "description": "A simple and elegant assertion and guard methods library for input validation.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xooxx",
+            "email": "xooxx.dev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Xooxx\\Assert\\": "src/"
+      }
+    }
+}
